@@ -1,5 +1,5 @@
 # Action Search: Spotting Targets in Videos and Its Application to Temporal Action Localization
-This repository is intended to host the Human Searches dataset and code from our [Action Search](http://humamalwassel.com/publication/action-search/). It includes the Human Searches dataset, code to animate the search sequences, and code (+ raw data) to reproduce the paper results figures.
+This repository is intended to host the Human Searches dataset and code from our [Action Search paper](http://humamalwassel.com/publication/action-search/). It includes the Human Searches dataset, code to animate the search sequences, and code (+ raw data) to reproduce the paper results figures.
 
 <img src="./animate-searches/example_output/example_output_animation.gif">
 
