@@ -15,5 +15,7 @@ Each dataset contains the following fields or columns:
 
 `time`: a float that contains the absolute time in the video observed at the current step.
 
+`target-action`: a string indicating the target action the human searched for.
+
 
 Please **note** that here we are providing the raw dataset. To reproduce our results, please follow the pre-processing steps defined in [our paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Humam_Alwassel_Action_Search_Spotting_ECCV_2018_paper.pdf).
